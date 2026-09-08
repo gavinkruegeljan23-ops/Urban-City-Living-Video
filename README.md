@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Urban City Living – Video Intro</title>
@@ -6,7 +5,7 @@
   <style>
     /* Title */
     h1 {
-      font-size: 48pt;
+      font-size: 56pt;
       color: #000000;
       text-align: center;
       text-shadow:
